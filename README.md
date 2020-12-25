@@ -5,21 +5,27 @@
 ## This Is Reza! 
 
 ### Welcome To My GitHub Account.
-My github's account information is as follow:
+- 🌱 I’m currently studing Electrical Engineering @ SRTTU
+- 💬 Ask me whatever you want to know about my Repo's & what you think I could help you
+- 📫 How to reach me: mohammad_reza.farhadi_nia@yahoo.com (be comfortable)
+- 😄 Pronouns: Farhad or what!! :) idk
+- ⚡ Fun fact:  The last one is always the toughest and trickiest!! 🤔
+
+And finally my github's account information is as follow:
 
 <table border="0" cellspacing="1" cellpadding="1">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=FarhadiNia&show_icons=True">
+            <img src="https://github-readme-stats.vercel.app/api?username=FarhadiNia&show_icons=True&theme=buefy">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadiNia&layout=compact&langs_count=10">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadiNia&layout=compact&langs_count=5&theme=vue">
         </td>
     </tr>
 </table>
 
 ## Contact Me
-Feel free to contact me via the following links or through this email: mohammad_reza.farhadi_nia@yahoo.com :
+Feel free to contact me via the following links:
 
 <div align="center">
         <a href="https://www.linkedin.com/in/FarhadiNia/">
