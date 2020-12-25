@@ -5,10 +5,9 @@
 ## This Is Reza! 
 
 ### Welcome To My GitHub Account.
-- 🌱 I’m currently studing Electrical Engineering @ SRTTU
+- 🌱 I’m currently studing Electrical Engineering [@SRTTU](https://sru.ac.ir)
 - 💬 Ask me whatever you want to know about my Repo's & what you think I could help you
 - 📫 How to reach me: mohammad_reza.farhadi_nia@yahoo.com (be comfortable)
-- 😄 Pronouns: Farhad or what!! :) idk
 - ⚡ Fun fact:  The last one is always the toughest and trickiest!! 🤔
 
 And finally my github's account information is as follow:
