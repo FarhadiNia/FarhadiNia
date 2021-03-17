@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/tPzuDa62ovAI/giphy.gif" width="100px"> 
 
-## This Is Reza! 
+## This Is Mohammad Reza! 
 
 ### Welcome To My GitHub Account.
 - 🌱 I’m a graduate of EE [@SRTTU](https://sru.ac.ir)
