@@ -28,13 +28,13 @@ Feel free to contact me via the following links:
 
 <div align="center">
         <a href="https://www.linkedin.com/in/FarhadiNia/">
-            <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png">
+            <img src="https://img.icons8.com/doodle/48/000000/linkedin.png">
         </a> 
         <a href="https://FarhadiNia.github.io/" >
-            <img src="https://img.icons8.com/fluent/48/000000/github.png">
+            <img src="https://img.icons8.com/doodle/48/000000/github.png">
         </a>
         <a href="https://twitter.com/FarhadiNia0/">
-            <img src="https://img.icons8.com/fluent/48/000000/twitter.png">
+            <img src="https://img.icons8.com/doodle/48/000000/twitter.png">
         </a> 
 </div>
 <p align=center>
