@@ -33,7 +33,7 @@ Feel free to contact me via the following links:
         <a href="https://FarhadiNia.github.io/" >
             <img src="https://img.icons8.com/doodle/48/000000/github.png">
         </a>
-        <a href="https://twitter.com/FarhadiNia0/">
+        <a href="https://twitter.com/FarhadiNia1/">
             <img src="https://img.icons8.com/doodle/48/000000/twitter.png">
         </a> 
 </div>
