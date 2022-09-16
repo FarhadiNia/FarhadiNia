@@ -27,7 +27,7 @@ And finally my github's account information is as follow:
 Feel free to contact me via the following links:
 
 <div align="center">
-        <a href="https://t.me/mohammadreza_fn/" >
+        <a href="https://t.me/MohammdReza_FN/" >
             <img src="https://img.icons8.com/doodle/48/000000/telegram.png">
         </a>
         <a href="https://www.linkedin.com/in/farhadinia/">
