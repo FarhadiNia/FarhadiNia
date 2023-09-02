@@ -7,7 +7,7 @@
 ### Welcome To My GitHub Account.
 - 🌱 I am currently an EE Master student [@UT](https://ut.ac.ir/en) and have already graduated from [SRTTU](https://sru.ac.ir/en).
 - 💬 Ask me whatever you want to know about my Repo's & what you think I could help you
-- 📫 How to reach me: mohammad_reza.farhadi_nia@yahoo.com (be comfortable)
+- 📫 How to reach me: farhadinia0@gmail.com (be comfortable)
 - ⚡ Fun fact:  The last one is always the toughest and trickiest!! 🤔
 
 And finally my github's account information is as follow:
