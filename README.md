@@ -39,7 +39,6 @@ Feel free to contact me via the following links:
 </div>
 <p align=center>
 <br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=FarhadiNia/FarhadiNia">
 </p>
   
 <!--
