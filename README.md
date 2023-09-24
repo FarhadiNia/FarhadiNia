@@ -37,7 +37,7 @@ Feel free to contact me via the following links:
             <img src="https://img.icons8.com/doodle/48/000000/twitter.png">
         </a> 
         <p> 
-            <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FarhadiNia&theme=tokyonight&show_icons=true&hide=issues&count_private=true">
+        <img src="https://komarev.com/ghpvc/?username=anmspro&label=Profile%20views&color=0e75b6&style=flat" alt="FarhadiNia" />
         </p>
 </div>
 <p align=center>
