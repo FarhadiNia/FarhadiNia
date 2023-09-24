@@ -37,7 +37,7 @@ Feel free to contact me via the following links:
             <img src="https://img.icons8.com/doodle/48/000000/twitter.png">
         </a> 
         <p> 
-        <img src="https://komarev.com/ghpvc/?username=anmspro&label=Profile%20views&color=0e75b6&style=flat" alt="FarhadiNia" />
+        <img src="https://komarev.com/ghpvc/?username=FarhadiNia&label=Profile%20views&color=0e75b6&style=flat" alt="FarhadiNia" />
         </p>
 </div>
 <p align=center>
