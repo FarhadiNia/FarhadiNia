@@ -27,14 +27,14 @@ And finally my github's account information is as follow:
 Feel free to contact me via the following links:
 
 <div align="center">
-        <a href="https://t.me/MohammdReza_FN/" >
+        <a href="https://t.me/FarhadiNia/" >
             <img src="https://img.icons8.com/doodle/48/000000/telegram.png">
         </a>
         <a href="https://www.linkedin.com/in/farhadinia/">
             <img src="https://img.icons8.com/doodle/48/000000/linkedin.png">
         </a> 
         <a href="https://twitter.com/FarhadiNia0/">
-            <img src="https://img.icons8.com/doodle/48/000000/twitter.png">
+            <img src="https://img.icons8.com/doodle/48/000000/x.png">
         </a> 
         <p> 
         <img src="https://komarev.com/ghpvc/?username=FarhadiNia&label=Profile%20views&color=0e75b6&style=flat" alt="FarhadiNia" />
