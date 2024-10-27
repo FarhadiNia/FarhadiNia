@@ -33,7 +33,7 @@ Feel free to contact me via the following links:
         <a href="https://www.linkedin.com/in/farhadinia/">
             <img src="https://img.icons8.com/doodle/48/000000/linkedin.png">
         </a> 
-        <a href="https://twitter.com/FarhadiNia0/">
+        <a href="https://x.com/FarhadiNia0/">
             <img src="https://img.icons8.com/doodle/48/000000/x.png">
         </a> 
         <p> 
