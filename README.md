@@ -1,16 +1,15 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&weight=500&duration=2000&pause=4000&color=FC0FD1&width=700&height=50&lines=Hi+there+👋;Welcome+to+my+GitHub+account+:D)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/tPzuDa62ovAI/giphy.gif" width="100px"> 
 
-## This Is Mohammad Reza! 
+## I am Mohammad Reza! 
 
-### Welcome To My GitHub Account.
-- 🌱 I am currently an EE Master student [@UT](https://ut.ac.ir/en) and have already graduated from [SRTTU](https://sru.ac.ir/en).
+- 🌱 I recently finished my M.Sc. from [UT](https://ut.ac.ir/en) and received a B.Sc. from [SRTTU](https://sru.ac.ir/en).
 - 💬 Ask me whatever you want to know about my Repo's & what you think I could help you
 - 📫 How to reach me: farhadinia0@gmail.com (be comfortable)
 - ⚡ Fun fact:  The last one is always the toughest and trickiest!! 🤔
 
-And finally my github's account information is as follow:
+And finally, my GitHub account information is as follows:
 
 <table border="0" cellspacing="1" cellpadding="1">
     <tr>
@@ -23,6 +22,9 @@ And finally my github's account information is as follow:
     </tr>
 </table>
 
+## Tools and Programming Languages
+<p align="center"><img src="https://skillicons.dev/icons?i=py,matlab,cpp,r,js,html,css,latex,ai&perline=12"><p>
+    
 ## Contact Me
 Feel free to contact me via the following links:
 
