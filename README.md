@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&weight=500&duration=2000&pause=4000&color=FC0FD1&width=700&height=50&lines=Hi+there+👋;Welcome+to+my+GitHub+account+:D)](https://git.io/typing-svg)
-
 <img src="https://media.giphy.com/media/tPzuDa62ovAI/giphy.gif" width="100px"> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&weight=500&duration=2000&pause=4000&color=FC0FD1&width=700&height=50&lines=Hi+there+👋;Welcome+to+my+GitHub+account+:D)](https://git.io/typing-svg)
 
 ## I am Mohammad Reza! 
 
