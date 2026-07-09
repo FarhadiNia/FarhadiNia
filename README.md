@@ -4,23 +4,10 @@
 
 ## I am Mohammad Reza! 
 
-- 🌱 I recently finished my M.Sc. from [UT](https://ut.ac.ir/en) and received a B.Sc. from [SRTTU](https://sru.ac.ir/en).
-- 💬 Ask me whatever you want to know about my Repo's & what you think I could help you
+- 🌱 I M.Sc. graduated from [UT](https://ut.ac.ir/en) and received a B.Sc. from [SRTTU](https://sru.ac.ir/en).
+- 💬 Ask me whatever you want to know about my Repos & what you think I could help you with
 - 📫 How to reach me: farhadinia0@gmail.com (be comfortable)
 - ⚡ Fun fact:  The last one is always the toughest and trickiest!! 🤔
-
-And finally, my GitHub account information is as follows:
-
-<table border="0" cellspacing="1" cellpadding="1">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=FarhadiNia&show_icons=True&theme=buefy">
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadiNia&layout=compact&langs_count=5&theme=vue">
-        </td>
-    </tr>
-</table>
 
 ## Tools and Programming Languages
 <p align="center"><img src="https://skillicons.dev/icons?i=py,matlab,cpp,r,js,html,css,latex,ai&perline=12"><p>
@@ -47,16 +34,16 @@ Feel free to contact me via the following links:
 </p>
   
 <!--
-**FarhadiNia/FarhadiNia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+And finally, my GitHub account information is as follows:
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<table border="0" cellspacing="1" cellpadding="1">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=FarhadiNia&show_icons=True&theme=buefy">
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadiNia&layout=compact&langs_count=5&theme=vue">
+        </td>
+    </tr>
+</table>
 -->
