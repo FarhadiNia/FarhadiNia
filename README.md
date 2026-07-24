@@ -6,7 +6,7 @@
 
 - 🌱 I am M.Sc. graduated from [UT](https://ut.ac.ir/en) and received a B.Sc. from [SRTTU](https://sru.ac.ir/en).
 - 💬 Ask me whatever you want to know about my Repos & what you think I could help you with
-- 📫 How to reach me: farhadinia (at) gmail (dot) com (be comfortable)
+- 📫 How to reach me: farhadinia0 (at) gmail (dot) com (be comfortable)
 - ⚡ Fun fact:  The last one is always the toughest and trickiest!! 🤔
 
 ## Tools and Programming Languages
